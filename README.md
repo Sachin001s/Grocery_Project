@@ -1,8 +1,9 @@
-<img src="" align="right" width="200px" height="200px"/>
+<img src="Grocery.png" align="right" width="200px" height="300px"/>
 
-# Grocery Project
+# Grocery Project   &nbsp; ![Static Badge](https://img.shields.io/badge/Grocery_Store-GS-%23F0AD4E)
 
 > This is a simple grocery project that utilizes HTML and CSS to create a grocery list webpage.
+
 
 ## Getting Started
 
@@ -21,6 +22,9 @@ The project consists of the following files:
 ## Usage
 
 The `grocery.html` file serves as the entry point for the grocery list webpage. Open this file in a web browser to view and interact with the grocery list.
+
+![Screenshot 2023-07-18 124115](https://github.com/Sachin001s/Grocery_Project/assets/128379424/9802fcc7-cad5-4fa8-b989-5b6348098293)
+
 
 ## Customization
 
