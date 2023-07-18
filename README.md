@@ -1,12 +1,8 @@
-
-![Logo](https://www.grocistore.com/admin/uploads/logo1575713051.png)
-
-
-
+<img src="" align="right" width="200px" height="200px"/>
 
 # Grocery Project
 
-This is a simple grocery project that utilizes HTML and CSS to create a grocery list webpage.
+> This is a simple grocery project that utilizes HTML and CSS to create a grocery list webpage.
 
 ## Getting Started
 
